@@ -14,7 +14,8 @@ The primary objective of this project is to create a robust and interactive Powe
 ### 2.1. Data Source
 The project utilized the following datasets:
 * **Dataset Used:** <a href="Financial Sample (2).xlsx">Financial Sample (2).xlsx</a>
-* **Final Dashboard Report**: <a href="[Dashboard FestMan.pdf]"> [Dashboard FestMan.pdf]</a>
+* **Final Dashboard Report PDF**: <a href="[Dashboard FestMan.pdf]"> [Dashboard FestMan.pdf]</a>
+* **Final Dashboard Report Power BI**: <a href="Dashboard FestMan.pbix"> Dashboard FestMan.pbix</a>
 
 ### 2.2. Power Query Transformations
 Initial data transformation and cleaning were performed in Power Query (accessed via "Transform Data" in Power BI).
