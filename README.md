@@ -130,8 +130,7 @@ The dashboard features a customized theme and background for enhanced aesthetics
 
 ![image](https://github.com/user-attachments/assets/5166c45b-ee1d-4b14-a689-a44692472376)
 
-
-    * **Visual Insight**: While many products show positive margins, the 'Enterprise' segment consistently shows negative profit margins across all its products (e.g., 'Paseo' at -1.55%, 'Amarilla' at -3.60%), reinforcing the concern from the Profit Margin by Segment chart. Even 'Montana' and 'Velo' in the 'Enterprise' segment are losing money. Products like 'Velo' (22.48%) and 'VTT' (22.35%) generally have high profit margins across segments.
+   * **Visual Insight**: While many products show positive margins, the 'Enterprise' segment consistently shows negative profit margins across all its products (e.g., 'Paseo' at -1.55%, 'Amarilla' at -3.60%), reinforcing the concern from the Profit Margin by Segment chart. Even 'Montana' and 'Velo' in the 'Enterprise' segment are losing money. Products like 'Velo' (22.48%) and 'VTT' (22.35%) generally have high profit margins across segments.
 
 ![Screenshot 2025-05-26 234343](https://github.com/user-attachments/assets/8487495a-e64c-476d-ba78-be24232965da)
 
