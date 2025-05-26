@@ -129,6 +129,7 @@ The dashboard features a customized theme and background for enhanced aesthetics
     * **Conditional Formatting**: To intuitively represent profitability, red triangles are used to visually indicate a loss, and green triangles indicate profit. This allows for quick identification of profitable and unprofitable product-segment combinations.
 
 ![image](https://github.com/user-attachments/assets/5166c45b-ee1d-4b14-a689-a44692472376)
+![image](https://github.com/user-attachments/assets/67931b57-f966-45cc-a70c-25b270e75cac)
 
    * **Visual Insight**: While many products show positive margins, the 'Enterprise' segment consistently shows negative profit margins across all its products (e.g., 'Paseo' at -1.55%, 'Amarilla' at -3.60%), reinforcing the concern from the Profit Margin by Segment chart. Even 'Montana' and 'Velo' in the 'Enterprise' segment are losing money. Products like 'Velo' (22.48%) and 'VTT' (22.35%) generally have high profit margins across segments.
 
